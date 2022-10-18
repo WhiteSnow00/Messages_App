@@ -1,0 +1,14 @@
+[
+  {
+    "versionCode": "2",
+    "versionName": "0.9.1",
+    "added": [
+    ],
+    "improved": [
+      "Updated dependencies",
+      "Removed support for Call Control"
+    ],
+    "fixed": [
+    ]
+  }
+]
